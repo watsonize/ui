@@ -9,7 +9,12 @@
   "scripts": {},
   "packageManager": "pnpm@10.14.0",
   "devDependencies": {
+    "@nx/react": "21.4.0",
     "nx": "21.4.0",
     "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "react": "^19",
+    "react-dom": "^19"
   }
 }
