@@ -9,6 +9,7 @@
   "scripts": {},
   "packageManager": "pnpm@10.14.0",
   "devDependencies": {
-    "nx": "21.4.0"
+    "nx": "21.4.0",
+    "prettier": "^3.6.2"
   }
 }

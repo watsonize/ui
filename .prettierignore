@@ -1,0 +1,10 @@
+# Ignore build output
+dist
+build
+node_modules
+# Nx specific
+coverage
+.tmp
+**/generated
+**/dist
+**/build
