@@ -1,11 +1,9 @@
-import styles from './ui-components.module.css'
-
-export function WatsonizeUiComponents() {
+export function UiComponents() {
   return (
-    <div className={styles['container']}>
+    <div className="">
       <h1>Welcome to WatsonizeUiComponents!</h1>
     </div>
   )
 }
 
-export default WatsonizeUiComponents
+export default UiComponents
